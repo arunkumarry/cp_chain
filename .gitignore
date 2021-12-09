@@ -1,0 +1,10 @@
+.nyc_output/
+coverage/
+node_modules/
+npm-debug.log
+package-lock.json
+test/*.log
+yarn-error.log
+.env
+.DS_Store
+build/
